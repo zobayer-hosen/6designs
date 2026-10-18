@@ -25,7 +25,7 @@ export const contact = {
   addressLines: ["327, Road #22, Mohakhali DOHS", "Dhaka 1206, Bangladesh"],
   address: "327, Road #22, Mohakhali DOHS, Dhaka 1206, Bangladesh",
   mapEmbed:
-    "https://www.google.com/maps?q=Road+22,+Mohakhali+DOHS,+Dhaka+1206,+Bangladesh&output=embed",
+    "https://www.google.com/maps?q=6+Designs+Mohakhali+DOHS&z=17&output=embed",
   socials: [
     { label: "Facebook", href: "https://facebook.com/6designsinterior" },
     { label: "WhatsApp", href: "https://wa.me/+8801841889887?text=Hello" },
@@ -40,7 +40,7 @@ export const nav = [
 ];
 
 export const cta = {
-  heading: ["Make an impact", "{T}oday"],
+  heading: ["{M}ake an impact", "today"],
   button: { label: "Get Started", href: "/contact#inquiry" },
 };
 
@@ -217,7 +217,7 @@ export const home = {
 
   contact: {
     eyebrow: "Contact us",
-    heading: ["Make an impact", "{T}oday"],
+    heading: ["{M}ake an impact", "today"],
     text: "Reach out for personalized design solutions. Tell us about your space and we'll guide you through the next steps.",
   },
 };
@@ -350,7 +350,7 @@ export const services = {
   },
   pricing: {
     eyebrow: "Pricing (approx., BDT)",
-    heading: ["Budget", "{T}able"],
+    heading: ["{B}udget", "table"],
     design: {
       label: "Designing Packages",
       description:
@@ -438,7 +438,7 @@ export const services = {
 
 export const inquiry = {
   eyebrow: "Inquiry",
-  heading: ["Send an", "{I}nquiry"],
+  heading: ["{S}end an", "inquiry"],
   text: "Share a few details about your project. Submissions go to 6designs327@gmail.com.",
   serviceTypes: ["Design", "Construction"],
   packages: ["Basic", "Premium", "Custom"],
@@ -468,7 +468,7 @@ export const contactPage = {
   },
   faq: {
     eyebrow: "FAQ",
-    heading: ["Common", "{Q}uestions"],
+    heading: ["{C}ommon", "questions"],
     items: [
       {
         q: "What services do you offer?",

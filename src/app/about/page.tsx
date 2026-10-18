@@ -47,7 +47,7 @@ export default function AboutPage() {
         <div className="border-t border-line pt-14 text-center md:pt-[5vw]">
           <Eyebrow>Our approach</Eyebrow>
           <RevealHeading
-            lines={[`{I}nnovation & detail`]}
+            lines={["Innovation & {D}etail"]}
             className="display mt-4 text-[clamp(2.2rem,5.3vw,6rem)]"
           />
         </div>
